@@ -102,12 +102,16 @@ describe("About Applying What We Have Learnt", function() {
 
   /*********************************************************************************/
   /* UNCOMMENT FOR EXTRA CREDIT */
-  /*
-  it("should find the largest prime factor of a composite number", function () {
   
+  it("should find the largest prime factor of a composite number", function () {
+    //Find the factors of the composite number
+    //Then Check Prime Numbers of the factors
+    //Then Find the largest prime
+
+
   });
 
-  it("should find the largest palindrome made from the product of two 3 digit numbers", function () {
+  /*it("should find the largest palindrome made from the product of two 3 digit numbers", function () {
     
   });
 
